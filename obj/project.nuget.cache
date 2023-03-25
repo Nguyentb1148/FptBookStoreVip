@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BIat+dmgCt4ZdEoP5vLDL3W/AxPW+gUoOytJP7MI/Dio7ncZ5si8LyrzDNn5hiKD0dF2tdinP22c73O1eLR+ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell\\OneDrive\\Máy tính\\App Dev\\FptBookStore\\FptBookStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}
