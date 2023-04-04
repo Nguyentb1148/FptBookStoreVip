@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FptBookStore.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20230325120108_initDB")]
-    partial class initDB
+    [Migration("20230404075557_InitialCreate")]
+    partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -43,9 +43,8 @@ namespace FptBookStore.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Page")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<int>("Page")
+                        .HasColumnType("int");
 
                     b.Property<string>("Picture")
                         .IsRequired()
@@ -54,7 +53,10 @@ namespace FptBookStore.Migrations
                     b.Property<double>("Price")
                         .HasColumnType("float");
 
-                    b.Property<DateTime>("RealeData")
+                    b.Property<int>("Quantity")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("ReleaseData")
                         .HasColumnType("datetime2");
 
                     b.Property<DateTime>("ReleaseDate")
@@ -158,6 +160,10 @@ namespace FptBookStore.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Password")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("PhoneNumber")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -396,11 +402,13 @@ namespace FptBookStore.Migrations
 
             modelBuilder.Entity("FptBookStore.Models.Order", b =>
                 {
-                    b.HasOne("FptBookStore.Models.User", null)
+                    b.HasOne("FptBookStore.Models.User", "PhoneNumber")
                         .WithMany("Orders")
                         .HasForeignKey("UserID")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+
+                    b.Navigation("PhoneNumber");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
