@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\FptBookStore.bundle.scp.css"
     },
     {
+      "Id": "D:\\1670\\FptBookStoreVip\\wwwroot\\css\\bootswatchTheme.css",
+      "PackagePath": "staticwebassets\\css\\bootswatchTheme.css"
+    },
+    {
       "Id": "D:\\1670\\FptBookStoreVip\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
