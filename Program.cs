@@ -1,9 +1,6 @@
 using FptBookStore.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
-// using FptBookStore.Areas.Identity.Data;
-// using MyApplication.Data;
-//using FptBookStore.Areas.Identity.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
