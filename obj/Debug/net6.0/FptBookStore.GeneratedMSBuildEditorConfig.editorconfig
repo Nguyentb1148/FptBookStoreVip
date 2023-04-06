@@ -16,8 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\1670\FptBookStoreVip
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/1670/FptBookStoreVip/Pages/Category/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+[D:/1670/FptBookStoreVip/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/1670/FptBookStoreVip/Views/Home/Index.cshtml]

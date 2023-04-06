@@ -1,4 +1,5 @@
 ﻿using FptBookStore.Data;
+using FptBookStore.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace FptBookStore.Controllers;
@@ -15,7 +16,7 @@ public class CategoryController : Controller
     // GET
     public IActionResult Index()
     {
-        var objCategoryList = _db.Category.ToList();
-        return View();
+        IEnumerable<Category> objCategoryList = _db.Category.ToList();
+        return View(objCategoryList);
     }
 }
