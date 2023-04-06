@@ -1,0 +1,76 @@
+@model List<Book>
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<h2>title</h2><!DOCTYPE html>
+
+<html>
+<div class="container p-3">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h1 class="text-primary">Category</h1>
+        </div>
+    
+</div>
+    <br />
+    <body>
+    <div>
+            <table class="table table-bordered table-striped" style="width:100%">
+                <thead>
+                    <tr>
+                        <th>
+                            Category ID
+                        </th>
+                        <th>
+                            Category Name
+                        </th>
+                        <th>
+                            Display Order
+                        </th>
+                        <th>
+                            CreatedDataTime
+                        </th>
+                    </tr>
+                </thead>
+                @*<tbody>
+                    @foreach (var obj in Model)
+                    {
+                        <tr>
+                            $1$ <td width="20%"> #1#
+                            $1$     @obj.Id #1#
+                            $1$ </td> #1#
+                            $1$<td width="20%">
+                                @obj.Name
+                            </td>
+                            <td width="20%">
+                                @obj.DisplayOder
+                            </td>#1#
+                            <td width="20%">
+                                $1$ @obj.CreatedDataTime #1#
+                            </td>
+                            <td width="20%">
+                                $1$ @obj.CreatedDataTime #1#
+                            </td>
+                            $1$<td>
+                                <div class="w-75 btn-group" role="group">
+                                    <a asp-controller="Categories" asp-action="EditCategory" asp-route-id="@obj.Id" class="btn btn-sm btn-outline-info">
+                                        <i class="bi bi-pencil-fill"></i>
+                                    </a>
+                                    <a asp-controller="Categories" asp-action="DeleteCategory" asp-route-id="@obj.Id" class="btn btn-danger mx-2">
+                                        <i class="bi bi-trash3-fill"></i>
+                                    </a>
+                                </div>
+                                
+                                
+                            </td>#1#
+                        </tr>
+                    }
+                </tbody>*@
+            </table>
+        </div>
+    </body>
+</div>
+</html>

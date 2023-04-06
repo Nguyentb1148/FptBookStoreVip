@@ -7,6 +7,18 @@
   <component name="ChangeListManager">
     <list default="true" id="49418c57-6418-42c6-ae12-a1b93670cab4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FptBookStore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FptBookStore/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/HomeController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Views/Home/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/FptBookStore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/FptBookStore.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/FptBookStore.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/FptBookStore.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/FptBookStore.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/FptBookStore.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/FptBookStore.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/FptBookStore.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/FptBookStore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/FptBookStore.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/FptBookStore.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/FptBookStore.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/ref/FptBookStore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/ref/FptBookStore.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/refint/FptBookStore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/refint/FptBookStore.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1680627072258</updated>
       <workItem from="1680627072675" duration="3960000" />
+      <workItem from="1680753690018" duration="424000" />
     </task>
     <servers />
   </component>
