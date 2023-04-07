@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "m2ACl8+/FZ1IAxQFiFTtkujBGZ8Wt78zT1ainiUfELcXeJYvl+AuWp/28+82qqtm5doYdEVPPhSVYQeng1rMMQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\FptBookStoreVip\\FptBookStore.csproj",
+=======
+  "dgSpecHash": "Op2K+bZrpyW2CPo/+k4bCMVx+PlL6l+lcfZ4KXo+h0yVPnz31jmghG68pJKE/OlRXE7/Gnv6ywL9QvswQbT7sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell\\FptBookStoreVip\\FptBookStore.csproj",
+>>>>>>> origin/main
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

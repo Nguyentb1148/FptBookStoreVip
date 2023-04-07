@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Admin\\FptBookStoreVip\\FptBookStore.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\Admin\\FptBookStoreVip\\FptBookStore.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Admin\\FptBookStoreVip\\obj\\",
+=======
+    "C:\\Users\\dell\\FptBookStoreVip\\FptBookStore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dell\\FptBookStoreVip\\FptBookStore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dell\\FptBookStoreVip\\FptBookStore.csproj",
+        "projectName": "FptBookStore",
+        "projectPath": "C:\\Users\\dell\\FptBookStoreVip\\FptBookStore.csproj",
+        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dell\\FptBookStoreVip\\obj\\",
+>>>>>>> origin/main
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
