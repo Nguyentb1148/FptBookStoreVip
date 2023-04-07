@@ -5,14 +5,25 @@
     <projectFile profileName="IIS Express">FptBookStore.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="49418c57-6418-42c6-ae12-a1b93670cab4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FptBookStore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FptBookStore/.idea/workspace.xml" afterDir="false" />
+=======
+    <list default="true" id="944e9e05-3cdf-4628-95d6-5e07b4a50b2e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FptBookStore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FptBookStore/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Migrations/20230404103416_CreateIdentitySchema.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Migrations/20230404103416_CreateIdentitySchema.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Migrations/ApplicationDbContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Migrations/ApplicationDbContextModelSnapshot.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/FptBookStore.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/FptBookStore.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/FptBookStore.csproj.CoreCompileInputs.cache" afterDir="false" />
+>>>>>>> origin
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -24,21 +35,42 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NyCizjkMYha0iSn0RgkypPWIg1" />
+=======
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2Nx8R6LkdwHjvIGyyTlKlcz6QBT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+>>>>>>> origin
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+<<<<<<< HEAD
+=======
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+>>>>>>> origin
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+<<<<<<< HEAD
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+=======
+>>>>>>> origin
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;rider.external.source.directories&quot;: [
+<<<<<<< HEAD
       &quot;C:\\Users\\Admin\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache&quot;,
       &quot;C:\\Users\\Admin\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache&quot;,
       &quot;C:\\Users\\Admin\\AppData\\Local\\Symbols\\src&quot;
@@ -46,6 +78,15 @@
   }
 }</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.FptBookStore: IIS Express">
+=======
+      &quot;C:\\Users\\dell\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\dell\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\dell\\AppData\\Local\\Symbols\\src&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.FptBookStore">
+>>>>>>> origin
     <configuration name="FptBookStore" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/FptBookStore.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net6.0" />
@@ -80,6 +121,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="49418c57-6418-42c6-ae12-a1b93670cab4" name="Changes" comment="" />
       <created>1680627072258</created>
       <option name="number" value="Default" />
@@ -88,6 +130,18 @@
       <workItem from="1680627072675" duration="3960000" />
       <workItem from="1680753690018" duration="1731000" />
       <workItem from="1680860755286" duration="642000" />
+=======
+      <changelist id="944e9e05-3cdf-4628-95d6-5e07b4a50b2e" name="Changes" comment="" />
+      <created>1680594367888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680594367888</updated>
+      <workItem from="1680594368608" duration="1818000" />
+      <workItem from="1680596608863" duration="2613000" />
+      <workItem from="1680599299241" duration="4157000" />
+      <workItem from="1680604523456" duration="422000" />
+      <workItem from="1680803470870" duration="1279000" />
+>>>>>>> origin
     </task>
     <servers />
   </component>
@@ -100,6 +154,7 @@
       <map>
         <entry key="MAIN">
           <value>
+<<<<<<< HEAD
             <State>
               <option name="FILTERS">
                 <map>
@@ -128,12 +183,19 @@
                 </option>
               </RecentGroup>
             </list>
+=======
+            <State />
+>>>>>>> origin
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+<<<<<<< HEAD
+=======
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+>>>>>>> origin
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>
