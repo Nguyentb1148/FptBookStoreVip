@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Areas",
+    "\\Areas\\Identity",
+    "\\Areas\\Identity\\Pages",
+    "\\Migrations"
+  ],
+  "SelectedNode": "\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+  "PreviewInSolutionExplorer": false
+}
